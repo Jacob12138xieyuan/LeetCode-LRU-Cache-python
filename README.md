@@ -1,5 +1,7 @@
 # LeetCode-LRU-Cache-python
 
+![WeChat Image_20200926152552](https://user-images.githubusercontent.com/37478093/94335240-bdde4480-000c-11eb-818d-9998fd9e2a72.png)
+
 ```
 # use a dictionary to store all keys and corresponding node (contains value)
 # the most recent used key is on the most right of double linked list
